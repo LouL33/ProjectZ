@@ -19,11 +19,11 @@ namespace ProjectZ.Controllers
             return View();
         }
 
-        [HttpPost]
-        public ActionResult SearchingSection(UserLocation point)
-        {
+        //[HttpPost]
+        //public ActionResult SearchingSection(UserLocation point)
+        //{
             
-        }
+        //}
        
 
     }
